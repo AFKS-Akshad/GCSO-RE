@@ -1,2 +1,2 @@
-# GCSO-RE
-this is re created project for GCSO
+# p5.play-boilerplate
+Boiler plate for p5.play
